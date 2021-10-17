@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-17T11:40:36 EDT" name="Suite" finished-at="2021-10-17T11:40:44 EDT" duration-ms="8430">
+    <groups>
+    </groups>
+    <test started-at="2021-10-17T11:40:36 EDT" name="Test" finished-at="2021-10-17T11:40:44 EDT" duration-ms="8430">
+      <class name="testCases.TC001_login">
+        <test-method is-config="true" signature="init()[pri:0, instance:testCases.TC001_login@4f2b503c]" started-at="2021-10-17T11:40:36 EDT" name="init" finished-at="2021-10-17T11:40:40 EDT" duration-ms="3627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="login()[pri:0, instance:testCases.TC001_login@4f2b503c]" started-at="2021-10-17T11:40:40 EDT" name="login" finished-at="2021-10-17T11:40:44 EDT" duration-ms="4104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testCases.TC001_login@4f2b503c]" started-at="2021-10-17T11:40:44 EDT" name="afterClass" finished-at="2021-10-17T11:40:44 EDT" duration-ms="650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testCases.TC001_login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

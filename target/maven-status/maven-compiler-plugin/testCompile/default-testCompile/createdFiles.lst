@@ -1,0 +1,3 @@
+pageObjects\hrm_login.class
+testCases\hrm_init.class
+testCases\TC001_login.class
